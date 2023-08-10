@@ -5,7 +5,7 @@
 
 - 📫 Como me contatar: **tuliovictorp@hotmail.com**
 
-<h3 align="left">Conecte-se comigo:<a href= "https://www.linkedin.com/in/túlio-victor-pereira-santos-884297235">Linkedin</a>/</h3>
+<h3 align="left">Conecte-se comigo:<a href= "https://www.linkedin.com/in/túlio-victor-pereira-santos-884297235">Linkedin</a></h3>
 <p align="left">
 </p>
 
