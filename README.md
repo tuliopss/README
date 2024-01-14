@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, sou o Túlio</h1>
-<h3 align="center">Sou um estudante de Análise e Desenvolvimento de Sistemas e atualmente estou no 4º semestre. Tenho como foco me tornar um desenvolvedor de software.</h3>
+<h3 align="center">Sou um estudante de Análise e Desenvolvimento de Sistemas e atualmente estou no 5º semestre. Tenho como foco me tornar um desenvolvedor de software.</h3>
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://tulioportfolio.netlify.app](https://tulioportfolio.netlify.app)
 
