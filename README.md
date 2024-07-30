@@ -12,7 +12,7 @@
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="Fnodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src=Fnodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NestJS-Light.svg" alt="nestjs" width="40" height="40"/>
